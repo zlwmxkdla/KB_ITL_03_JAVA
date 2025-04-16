@@ -1,0 +1,4 @@
+각 멤버 변수가 가지는 기본값은?
+model 변수 : 기본값은 null
+start 변수 : 기본값은 false
+speed 변수 : 기본값은 0
