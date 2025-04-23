@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250422 심화" />
+    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250422 심화">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam01/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam05/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam01/ExceptionHandlingExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam02/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam03/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam04/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam04/TryWithResourceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam05/ThrowsExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam07/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam07/RecordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam08/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam09/MeasureRunTimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam10/GetPropertyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam11/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam12/StringTokenizerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam13/DateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/기본/exam14/CalendarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +86,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -105,6 +142,15 @@
     "Gradle.JAVA [:hw20250422.기본.exam02.AExample.main()].executor": "Run",
     "Gradle.JAVA [:hw20250422.기본.exam06.HomeExample.main()].executor": "Run",
     "Gradle.JAVA [:hw20250422.심화.exam01.AExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.StringTokenizerExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam01.ExceptionHandlingExample1.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam02.ExceptionHandlingExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam03.ExceptionHandlingExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam07.RecordExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam09.MeasureRunTimeExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam11.StringBuilderExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam13.DateExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.기본.exam14.CalendarExample.main()].executor": "Run",
     "Gradle.JAVA [build].executor": "Run",
     "Gradle.JAVA [clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -113,15 +159,19 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kb_fullstack_euj/02_JAVA/JAVA/src/main/java",
+    "last_opened_file_path": "C:/kb_fullstack_euj/02_JAVA/JAVA/lib/lombok.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/kb_fullstack_euj/02_JAVA/JAVA/src/Main.java",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "project.structure.last.edited": "라이브러리",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ButtonMain.executor": "Run",
     "애플리케이션.Calculator.executor": "Run",
     "애플리케이션.Hello.executor": "Run",
     "애플리케이션.Main.executor": "Run"
@@ -138,13 +188,13 @@
       <recent name="hw20250421.기본.exam01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.hw20250422.심화.exam01.AExample">
-    <configuration name="AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250422.기본.exam02.AExample" />
+  <component name="RunManager" selected="애플리케이션.CalendarExample">
+    <configuration name="CalendarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam14.CalendarExample" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250422.기본.exam02.*" />
+          <option name="PATTERN" value="hw20250423.기본.exam14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250421.심화.exam02.DriverExample" />
+    <configuration name="DateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam13.DateExample" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250421.심화.exam02.*" />
+          <option name="PATTERN" value="hw20250423.기본.exam13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250422.기본.exam06.HomeExample" />
+    <configuration name="MeasureRunTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam09.MeasureRunTimeExample" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250422.기본.exam06.*" />
+          <option name="PATTERN" value="hw20250423.기본.exam09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceofExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250421.심화.exam03.InstanceofExample" />
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam11.StringBuilderExample" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250421.심화.exam03.*" />
+          <option name="PATTERN" value="hw20250423.기본.exam11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw20250422.심화.exam01.AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250422.심화.exam01.AExample" />
+    <configuration name="StringTokenizerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam12.StringTokenizerExample" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250422.심화.exam01.*" />
+          <option name="PATTERN" value="hw20250423.기본.exam12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.hw20250422.심화.exam01.AExample" />
-        <item itemvalue="애플리케이션.HomeExample" />
-        <item itemvalue="애플리케이션.AExample" />
-        <item itemvalue="애플리케이션.InstanceofExample" />
-        <item itemvalue="애플리케이션.DriverExample" />
+        <item itemvalue="애플리케이션.CalendarExample" />
+        <item itemvalue="애플리케이션.DateExample" />
+        <item itemvalue="애플리케이션.StringTokenizerExample" />
+        <item itemvalue="애플리케이션.StringBuilderExample" />
+        <item itemvalue="애플리케이션.MeasureRunTimeExample" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +286,8 @@
       <workItem from="1744866523133" duration="8467000" />
       <workItem from="1745208715594" duration="12673000" />
       <workItem from="1745285481900" duration="93000" />
-      <workItem from="1745297131735" duration="6464000" />
+      <workItem from="1745297131735" duration="11107000" />
+      <workItem from="1745367003407" duration="8079000" />
     </task>
     <task id="LOCAL-00001" summary="20250417기본">
       <option name="closed" value="true" />
@@ -324,6 +375,24 @@
           <url>file://$PROJECT_DIR$/src/main/java/hw20250416/기본/exam06/CaculatorExample.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hw20250423/기본/exam02/ExceptionHandlingExample.java</url>
+          <line>3</line>
+          <properties class="hw20250423.기본.exam02.ExceptionHandlingExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hw20250423/기본/exam07/RecordExample.java</url>
+          <line>3</line>
+          <properties class="hw20250423.기본.exam07.RecordExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
