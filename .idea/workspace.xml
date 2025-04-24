@@ -4,17 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250423 기본">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/심화/exam01/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/심화/exam01/AccountExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/심화/exam01/InsufficientException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250423/심화/exam02/RandomExample.java" afterDir="false" />
+    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250424 기본">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec00/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec00/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec00/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec01/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec02/Racer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/sec02/ThreadRaceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250424/심화/exam01/MovieThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250424/심화/exam01/MusicRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250424/심화/exam01/ThreadExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
@@ -101,6 +109,8 @@
   "keyToString": {
     "Gradle.JAVA [:ch01.회전초밥.main()].executor": "Run",
     "Gradle.JAVA [:ch07.sec12.AnimalExample.main()].executor": "Run",
+    "Gradle.JAVA [:ch14.sec01.Main.main()].executor": "Run",
+    "Gradle.JAVA [:ch14.sec02.ThreadRaceGame.main()].executor": "Run",
     "Gradle.JAVA [:hw20250416.기본.exam04.CarExample.main()].executor": "Run",
     "Gradle.JAVA [:hw20250416.기본.exam06.CaculatorExample.main()].executor": "Run",
     "Gradle.JAVA [:hw20250416.기본.exam08.CarExample.main()].executor": "Run",
@@ -133,6 +143,7 @@
     "Gradle.JAVA [:hw20250423.기본.exam14.CalendarExample.main()].executor": "Run",
     "Gradle.JAVA [:hw20250423.심화.exam01.AccountExample.main()].executor": "Run",
     "Gradle.JAVA [:hw20250423.심화.exam02.RandomExample.main()].executor": "Run",
+    "Gradle.JAVA [:hw20250423.심화.exam03.SimpleDateFormatExample.main()].executor": "Run",
     "Gradle.JAVA [build].executor": "Run",
     "Gradle.JAVA [clean].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -170,7 +181,7 @@
       <recent name="hw20250421.기본.exam01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.RandomExample">
+  <component name="RunManager" selected="애플리케이션.ThreadRaceGame">
     <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw20250423.심화.exam01.AccountExample" />
       <module name="JAVA.main" />
@@ -184,25 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam14.CalendarExample" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14.sec01.Main" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250423.기본.exam14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam13.DateExample" />
-      <module name="JAVA.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw20250423.기본.exam13.*" />
+          <option name="PATTERN" value="ch14.sec01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +221,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTokenizerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw20250423.기본.exam12.StringTokenizerExample" />
+    <configuration name="SimpleDateFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw20250423.심화.exam03.SimpleDateFormatExample" />
       <module name="JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw20250423.기본.exam12.*" />
+          <option name="PATTERN" value="hw20250423.심화.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadRaceGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14.sec02.ThreadRaceGame" />
+      <module name="JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch14.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ThreadRaceGame" />
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.SimpleDateFormatExample" />
         <item itemvalue="애플리케이션.RandomExample" />
         <item itemvalue="애플리케이션.AccountExample" />
-        <item itemvalue="애플리케이션.CalendarExample" />
-        <item itemvalue="애플리케이션.DateExample" />
-        <item itemvalue="애플리케이션.StringTokenizerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +280,8 @@
       <workItem from="1745208715594" duration="12673000" />
       <workItem from="1745285481900" duration="93000" />
       <workItem from="1745297131735" duration="11107000" />
-      <workItem from="1745367003407" duration="9440000" />
+      <workItem from="1745367003407" duration="11828000" />
+      <workItem from="1745457389727" duration="6020000" />
     </task>
     <task id="LOCAL-00001" summary="20250417기본">
       <option name="closed" value="true" />
@@ -343,7 +355,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745392537722</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="20250423 심화">
+      <option name="closed" value="true" />
+      <created>1745393919356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745393919356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20250424 기본">
+      <option name="closed" value="true" />
+      <created>1745473060249</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745473060249</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +385,9 @@
     <MESSAGE value="20250422 기본" />
     <MESSAGE value="20250422 심화" />
     <MESSAGE value="20250423 기본" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250423 기본" />
+    <MESSAGE value="20250423 심화" />
+    <MESSAGE value="20250424 기본" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250424 기본" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -384,6 +414,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ch14/sec01/Main.java</url>
+          <line>7</line>
+          <properties class="ch14.sec01.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
