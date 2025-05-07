@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250429 기본">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250429/심화/exam01/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250429/심화/exam01/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250429/심화/exam02/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250429/심화/exam02/Board.java" afterDir="false" />
+    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250429 심화">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/exam01/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/exam01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/exam01/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/exam02/ConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/exam02/SupplierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/exam03/MethodRefTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam01/LamdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam02/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam02/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam03/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam03/Speakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam03/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam04/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam04/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/기본/exam04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam01/Calcuable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam01/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam02/ConstructorReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam02/Creatable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam02/Creatable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam02/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250507/심화/exam02/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +291,8 @@
       <workItem from="1745297131735" duration="11107000" />
       <workItem from="1745367003407" duration="11828000" />
       <workItem from="1745457389727" duration="10564000" />
-      <workItem from="1745893766761" duration="3353000" />
+      <workItem from="1745893766761" duration="4976000" />
+      <workItem from="1746583319183" duration="10554000" />
     </task>
     <task id="LOCAL-00001" summary="20250417기본">
       <option name="closed" value="true" />
@@ -374,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745906865169</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20250429 심화">
+      <option name="closed" value="true" />
+      <created>1745907720354</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745907720354</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,7 +424,8 @@
     <MESSAGE value="20250424 기본" />
     <MESSAGE value="20250424 심화" />
     <MESSAGE value="20250429 기본" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250429 기본" />
+    <MESSAGE value="20250429 심화" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250429 심화" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
