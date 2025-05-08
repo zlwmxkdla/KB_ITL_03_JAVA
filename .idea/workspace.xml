@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250507 기본,심화">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch17/ex01/DelayOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam01/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam02/StreamPipeLineExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam03/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam03/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam04/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam05/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam06/FilteringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam07/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam07/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam08/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam08/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam09/AggregateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/기본/exam10/OptionalExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="be3999fa-e865-4618-9858-f47747acf89c" name="변경" comment="20250508 기본">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/심화/exam01/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/심화/exam01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw20250508/심화/exam02/MapExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +272,7 @@
       <workItem from="1745457389727" duration="10564000" />
       <workItem from="1745893766761" duration="4976000" />
       <workItem from="1746583319183" duration="11363000" />
-      <workItem from="1746677989179" duration="4554000" />
+      <workItem from="1746677989179" duration="4877000" />
     </task>
     <task id="LOCAL-00001" summary="20250417기본">
       <option name="closed" value="true" />
@@ -413,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746603361032</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="20250508 기본">
+      <option name="closed" value="true" />
+      <created>1746684498656</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746684498656</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +422,8 @@
     <MESSAGE value="20250429 기본" />
     <MESSAGE value="20250429 심화" />
     <MESSAGE value="20250507 기본,심화" />
-    <option name="LAST_COMMIT_MESSAGE" value="20250507 기본,심화" />
+    <MESSAGE value="20250508 기본" />
+    <option name="LAST_COMMIT_MESSAGE" value="20250508 기본" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
